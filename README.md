@@ -1,2 +1,0 @@
-# AcfunEmoji
-AcfunEmoji
